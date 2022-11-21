@@ -5,13 +5,13 @@ I'm a passionate Front End Web Developer. My passion for software lies with drea
 <br/>
 
 
-<!-- <a href="">
+<a href="https://portfolio1297.web.app/home">
     <b>My Portfolio Link</b>
-</a> -->
+</a>
 <br />
 <br />
 
-## 🚀 Languages and Tools:
+## 🚀 Languages and Frameworks:
 
 <p>
     <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />&nbsp;&nbsp;
@@ -23,30 +23,29 @@ I'm a passionate Front End Web Developer. My passion for software lies with drea
     <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white:" />&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white;" />&nbsp;&nbsp;
 </p>
-<br/>
+<br />
 
-<!-- ## 📊 My Github Stats
- -->
-<!-- <br/>
-<p>
-    <a href="https://github.com/kakkarot9712/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Harsh Mehta's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kakkarot9712&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-    </a>
-</p> -->
+## 📊 My Github Stats
 
-<h3>Get in touch with me</h3>
+<p align='center'>
+<a href="https://github.com/kakkarot9712">
+  <img height="180em" src="https://streak-stats.demolab.com/?user=kakkarot9712&theme=algolia&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kakkarot9712&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+<br>
+<h3>Where to find me</h3>
 <p>
-    <a href="https://github.com/kakkarot9712" target="_open">
+    <a href="https://github.com/kakkarot9712" target="_blank">
         <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
     </a> 
-<!--     <a href="https://discord.com/" target="_open">
-        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-    </a> -->
     <a href="https://www.linkedin.com/in/vikalp-gandha-bb9778256/" target="_blank">
         <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
     </a> 
-    <a href="mailto:vikalpgandha9712@gmail.com" target="_open">
+    <a href="mailto:vikalpgandha9712@gmail.com" target="_blank">
         <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
+    <a href='https://t.me/Kakkarto9712'>
+        <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+    </a>
 </p>
-<br />
+</p>
