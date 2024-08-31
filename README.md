@@ -4,7 +4,7 @@ I'm a passionate Software Developer currently working at Clementius LLP since 20
 <br />
 <br />
 <a href="https://vikalpg.in/">
-    <b>My Portfolio Link</b>
+    <b>My Resume Link</b>
 </a>
 
 # 💻 Tech Stack:
