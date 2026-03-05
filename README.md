@@ -1,6 +1,6 @@
 # 💫 About Me:
 ### Hi👋, I'm Vikalp Gandha
-I'm a passionate Software Developer with experiance of over 2.5 years. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+I'm a passionate Software Developer with experiance of over 3.5 years. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 Currently expanding my skill set by learning Go, with a focus on building systems and tools from the ground up.
 <br />
